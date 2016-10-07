@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Kacang Goreng</string>
+    <string name="app_name" translatable="false">Kacang Goreng</string>
+
+    <!-- Font path. -->
+    <string name="roboto_bold" translatable="false">font/roboto/Roboto-Bold.ttf</string>
+    <string name="roboto_italic" translatable="false">font/roboto/Roboto-Italic.ttf</string>
+    <string name="roboto_regular" translatable="false">font/roboto/Roboto-Regular.ttf</string>
+
+    <string name="lato_bold" translatable="false">font/lato/Lato-Bold.ttf</string>
+    <string name="lato_italic" translatable="false">font/lato/Lato-Italic.ttf</string>
+    <string name="lato_regular" translatable="false">font/lato/Lato-Regular.ttf</string>
+
+    <string name="notosans_bold" translatable="false">font/notosans/NotoSans-Bold.ttf</string>
+    <string name="notosans_italic" translatable="false">font/notosans/NotoSans-Italic.ttf</string>
+    <string name="notosans_regular" translatable="false">font/notosans/NotoSans-Regular.ttf</string>
+
+    <string name="zeyada" translatable="false">font/zeyada/Zeyada.ttf</string>
 </resources>

@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Sample Noto Sans"
-        app:path="@string/zeyada" />
+        app:font="@string/zeyada" />
 
     <Button
         android:layout_width="match_parent"
