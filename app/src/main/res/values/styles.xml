@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Font path. -->
+    <string name="roboto_bold">font/roboto/Roboto-Bold.ttf</string>
+    <string name="roboto_italic">font/roboto/Roboto-Italic.ttf</string>
+    <string name="roboto_regular">font/roboto/Roboto-Regular.ttf</string>
+
+    <string name="lato_bold">font/lato/Lato-Bold.ttf</string>
+    <string name="lato_italic">font/lato/Lato-Italic.ttf</string>
+    <string name="lato_regular">font/lato/Lato-Regular.ttf</string>
+
+    <string name="notosans_bold">font/notosans/NotoSans-Bold.ttf</string>
+    <string name="notosans_italic">font/notosans/NotoSans-Italic.ttf</string>
+    <string name="notosans_regular">font/notosans/NotoSans-Regular.ttf</string>
+
+    <string name="zeyada">font/zeyada/Zeyada.ttf</string>
+</resources>

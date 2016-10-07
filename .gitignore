@@ -1,6 +1,5 @@
 *.iml
 .gradle
-/app
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
@@ -8,8 +7,4 @@
 /build
 /captures
 .externalNativeBuild
-<<<<<<< HEAD
-/projectFilesBackup/.idea
-=======
-/projectFilesBackup/.idea
->>>>>>> 812da29edf0e6f5035855c1f870bb1237d961222
+/projectFilesBackup
